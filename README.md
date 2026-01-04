@@ -3,9 +3,10 @@
 
 
 > قالب برايث لا يحتوي الكثير من التعقيدات حيث يمكن تركيبه وضبط اعداداته بكل سهولة كما يتم توفير تحديثات مجانية وتقديم الدعم الفني المجاني للمشترين.         
- :fas fa-dot-circle fa-fw: **اصدار القالب : 2.0**     
+ :fas fa-dot-circle fa-fw: **اصدار القالب : `2.0`**     
  :fas fa-dot-circle fa-fw:  [**صفحة القالب**](https://picalica.com/products/1806-%D8%A8%D8%B1%D8%A7%D9%8A%D8%AB-%D9%82%D8%A7%D9%84%D8%A8-%D8%A3%D9%86%D9%8A%D9%82-%D9%84%D9%84%D8%AA%D8%AF%D9%88%D9%8A%D9%86)            
- :fas fa-dot-circle fa-fw:   [**مصمم القالب**](https://picalica.com/u/SOUHAILLEKHOUAJA)
+ :fas fa-dot-circle fa-fw:   مصمم القالب:  [**سهيل خواجة**](https://picalica.com/u/SOUHAILLEKHOUAJA)
+
 
  **الميزات الرئيسية:**
 
